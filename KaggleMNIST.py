@@ -1,13 +1,9 @@
 #############
 
-# This program is a simple digit classifier using the MNIST dataset. 
-# I will be using the Keras neural network library with a Theano 
-# backend. I will be submitting this to the competition on Kaggle.
-# This competition has 42,000 training images and 28,000 test
-# images. At the end of the program, a text file (csv format) named results
-# will be created. It will have ImageId in one column (numbers from
-# 1 to 28,000), and the prediction labels for each test image
-# in another column. 
+"""This program is a simple digit classifier using the MNIST dataset. I will be using the Keras neural network library with a Theano 
+backend. I will be submitting this to the competition on Kaggle. This competition has 42,000 training images and 28,000 test images. 
+At the end of the program, a text file (csv format) named results will be created. It will have ImageId in one column (numbers from
+1 to 28,000), and the prediction labels for each test image in another column."""
 
 #############
 
